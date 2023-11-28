@@ -7,7 +7,7 @@ This is a simple _Connect Four_ made in Java 21 by me.
 Im a student of Java so this maybe is not the best way to do it.
 If you download this source and test it, i hope you can enjoy it
 
-##Usage: 
+## Usage: 
 
 First of all you need to download the repository or the **conecta4.java**.
 **_To download the repository do :_**
@@ -25,4 +25,4 @@ That's the file that can run the game. To run the game do :
 ```bash
 java conecta4
 ```
-####Enjoy!
+#### Enjoy!
