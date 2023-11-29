@@ -1,5 +1,5 @@
 # Conecta-4
-##Made by Bender.dll
+## Made by Bender.dll
 
 ### Description.
 This is a simple _Connect Four_ made in Java 21 by me.
